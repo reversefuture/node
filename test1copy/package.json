@@ -1,0 +1,14 @@
+{
+  "name": "node-echo",
+  "version": "1.0.0",
+  "description": "0",
+  "main": "./lib/echo.js",
+  "scripts": {
+    "test": "0"
+  },
+  "author": "0",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "0.0.2"
+  }
+}
