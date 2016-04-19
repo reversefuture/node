@@ -1,12 +1,12 @@
 {
-  "name": "node-echo",
+  "name": "lightzone",
   "version": "1.0.0",
-  "description": "0",
+  "description": "node_modules_pub-01",
   "main": "./lib/echo.js",
   "scripts": {
     "test": "0"
   },
-  "author": "0",
+  "author": "lightzone",
   "license": "ISC",
   "dependencies": {
     "argv": "0.0.2"
